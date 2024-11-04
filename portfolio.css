@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>M.S.S Jinadasa</title>
+    <style type="text/css">
+        body{
+            background-color:lightslategray
+        }
+    h1{
+        text-align:center;
+        text-decoration:underline;
+    }
+
+    h2{
+        text-decoration:underline;
+    }
+    </style>
+</head>
+<body>
+    <h1><b>Projects & Achievements</b></h1>
+    <h2><b>Projects</b></h2>
+    <ul type="disk">
+        <li>Developed Train management system using java</li>
+        <li>Developed Hotel management system using c# with visual studio</li>
+        <li>Developed e-commerce platform with </li>
+        <li>Developed wedding planning system using html,css,java and php</li>
+    </ul>
+    <h2><b>Achievements</b></h2>
+    <ul type="disk">
+        <li>Did the podcast event which is organized by physics student scociety of university of kelniya</li>
+        <li>Did events as coordinator in Astronomy society of university of kelaniya </li>
+    </ul>
+</body>
+</html>
+
